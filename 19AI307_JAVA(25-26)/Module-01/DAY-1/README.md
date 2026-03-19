@@ -77,8 +77,8 @@ To write a Java program that reads two integer numbers from the user and perform
  ```
 /*
 Program to implement variables and Operators using Java
-Developed by:  NIVETIKA K
-RegisterNumber: 212224060182 
+Developed by:  VARSHINI M
+RegisterNumber: 212224060293 
 */
 ```
 
