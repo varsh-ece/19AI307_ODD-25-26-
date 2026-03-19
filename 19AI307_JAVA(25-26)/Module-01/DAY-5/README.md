@@ -19,8 +19,8 @@ To write a Java program to compute the power of a number using the Math.pow() fu
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: NIVETIKA K
-RegisterNumber:  212224060182
+Developed by: VARSHINI M
+RegisterNumber:  212224060293
 */
 ```
 
