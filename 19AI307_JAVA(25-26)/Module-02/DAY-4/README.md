@@ -35,7 +35,7 @@ To write a Java program that initializes object variables using a constructor an
 /*
 Program to implement a conditional statement using Java
 Developed by: VARSHINI M
-RegisterNumber:  212224060182
+RegisterNumber:  212224060293
 */
 ```
 
